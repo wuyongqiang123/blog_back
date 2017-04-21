@@ -1,0 +1,14 @@
+.layui-field-title legend {
+    text-align: center;
+}
+
+#articleCoverImg {
+
+    border:1px solid black;
+    width: 185px;
+    height: 105px;
+}
+#upload_btn {
+    border: 1px solid lightslategray;
+
+}
